@@ -1,6 +1,6 @@
 /.vs/*
 *.suo
 *.user
-bin/*
-obj/*
+bin
+obj
 *.Cache
